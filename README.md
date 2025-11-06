@@ -42,8 +42,8 @@ Currently, I’m interning as a **Web Developer at Red Shark Digital**, crafting
 
 ### 🚀 Current Projects
 - 🧠 **Online Eye-Tracking Experiment** - Flask + WebGazer.js research app for ECU Brody School of Medicine  
-- 🌐 **Web Development Internship** – Working on UI/UX design, SEO, and performance optimization at Red Shark Digital  
-- 🏗️ **Personal Projects** – APIs, automation tools, and random code experiments that scratch my curiosity itch  
+- 🌐 **Web Development Internship** - Working on UI/UX design, SEO, and performance optimization at Red Shark Digital  
+- 🏗️ **Personal Projects** - APIs, automation tools, and random code experiments that scratch my curiosity itch  
 
 ---
 
