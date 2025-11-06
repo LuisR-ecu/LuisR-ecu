@@ -4,7 +4,7 @@
 <h3 align="center">💻 Computer Science Student @ ECU | Web & Backend Developer | Future Intern 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luisr-ecu/">
+  <a href="www.linkedin.com/in/ramirez-luis-hernandez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ramirezhernandezl23@students.ecu.edu">
