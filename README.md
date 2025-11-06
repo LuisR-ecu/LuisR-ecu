@@ -41,7 +41,7 @@ Currently, I’m interning as a **Web Developer at Red Shark Digital**, crafting
 ---
 
 ### 🚀 Current Projects
-- 🧠 **Online Eye-Tracking Experiment** – Flask + WebGazer.js research app for ECU Brody School of Medicine  
+- 🧠 **Online Eye-Tracking Experiment** - Flask + WebGazer.js research app for ECU Brody School of Medicine  
 - 🌐 **Web Development Internship** – Working on UI/UX design, SEO, and performance optimization at Red Shark Digital  
 - 🏗️ **Personal Projects** – APIs, automation tools, and random code experiments that scratch my curiosity itch  
 
@@ -56,13 +56,13 @@ Currently, I’m interning as a **Web Developer at Red Shark Digital**, crafting
 ---
 
 ### 🧩 Fun Facts
-- 🏋️‍♂️ Gym rat, runner, and disc golf enjoyer  
+- 🏋️‍♂️ Gym rat, runner, and golf enthusiast
 - 💡 I love solving weird bugs and finding “aha” logic moments  
 - 🎯 My goal: merge **AI, data science, and software engineering** to build tech that *actually matters*  
 
 ---
 
 <p align="center">
-  <i>“Technology should empower people — not gatekeep them.”</i><br/>
+  <i>“Technology should empower people, not gatekeep them.”</i><br/>
   💬 Let’s build something meaningful together.
 </p>
