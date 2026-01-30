@@ -21,7 +21,7 @@
 I'm a **Computer Science student at East Carolina University** passionate about building scalable web systems and research-driven applications that *actually make an impact*.  
 
 I’ve collaborated with **ECU’s Brody School of Medicine** on an online **eye-tracking experiment** using `Flask`, `WebGazer.js`, and `Python` to study how speech clarity affects visual processing.  
-Currently, I’m interning as a **Web Developer at Red Shark Digital**, crafting fast, accessible, and responsive sites that help real businesses grow.
+I also got the chance to intern as a **Web Developer at Red Shark Digital**, crafting fast, accessible, and responsive sites that help real businesses grow.
 
 ---
 
@@ -32,8 +32,8 @@ Currently, I’m interning as a **Web Developer at Red Shark Digital**, crafting
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Java-092E20?logo=java&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Rust-00ADD8?logo=rust&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat" />
 </p>
@@ -41,9 +41,10 @@ Currently, I’m interning as a **Web Developer at Red Shark Digital**, crafting
 ---
 
 ### 🚀 Current Projects
+- 🏗️ **Personal Projects** - APIs, automation tools, and random code experiments that scratch my curiosity itch
+- 🏡 **HomeLab Projects** - creating a local home security system, experimenting with virtualization, hosting my own gaming servers
 - 🧠 **Online Eye-Tracking Experiment** - Flask + WebGazer.js research app for ECU Brody School of Medicine  
-- 🌐 **Web Development Internship** - Working on UI/UX design, SEO, and performance optimization at Red Shark Digital  
-- 🏗️ **Personal Projects** - APIs, automation tools, and random code experiments that scratch my curiosity itch  
+<!--- 🌐 **Web Development Internship** - Working on UI/UX design, SEO, and performance optimization at Red Shark Digital --->
 
 ---
 
